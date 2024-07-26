@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tateleom.github.io/sitemap.html.gz
+Sitemap: https://tateleom.github.io/app/sitemap.html.gz
+Sitemap: https://tateleom.github.io/assets/sitemap.html.gz
+Sitemap: https://tateleom.github.io/css/sitemap.html.gz
+Sitemap: https://tateleom.github.io/includes/sitemap.html.gz
+Sitemap: https://tateleom.github.io/item/sitemap.html.gz
+Sitemap: https://tateleom.github.io/src/sitemap.html.gz
